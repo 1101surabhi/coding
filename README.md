@@ -23,8 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/1101surabhi/leetcode/tree/master/0013-roman-to-integer) |
 | [1923-sentence-similarity-iii](https://github.com/1101surabhi/leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/1101surabhi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/1101surabhi/leetcode/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/1101surabhi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/1101surabhi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
