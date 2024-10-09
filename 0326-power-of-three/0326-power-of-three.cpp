@@ -3,7 +3,7 @@ public:
     bool isPowerOfThree(int n) {
         if (n <= 0) return false ;
         int num = 1 ;
-        while (num < INT_MAX/3){
+        while (num < INT_MAX/3 && num <= n){
             if (num == n) return true ;
             num *= 3 ;
         }
