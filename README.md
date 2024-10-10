@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/1101surabhi/leetcode/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/1101surabhi/leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/1101surabhi/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/1101surabhi/leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/1101surabhi/leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1101surabhi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/1101surabhi/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/1101surabhi/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
