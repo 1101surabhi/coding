@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/1101surabhi/coding/tree/master/0078-subsets) |
 | [1923-sentence-similarity-iii](https://github.com/1101surabhi/leetcode/tree/master/1923-sentence-similarity-iii) |
 ## Two Pointers
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/1101surabhi/coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/1101surabhi/coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/1101surabhi/coding/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/1101surabhi/coding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
