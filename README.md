@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/1101surabhi/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/1101surabhi/coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1101surabhi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3451-string-compression-iii](https://github.com/1101surabhi/coding/tree/master/3451-string-compression-iii) |
 ## Hash Table
 |  |
 | ------- |
