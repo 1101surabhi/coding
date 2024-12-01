@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/1101surabhi/coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/1101surabhi/coding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/1101surabhi/coding/tree/master/0078-subsets) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/1101surabhi/coding/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/1101surabhi/leetcode/tree/master/1923-sentence-similarity-iii) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/1101surabhi/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/1101surabhi/coding/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/1101surabhi/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/1101surabhi/coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/1101surabhi/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1101surabhi/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/1101surabhi/coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/1101surabhi/coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/1101surabhi/coding/tree/master/1755-defuse-the-bomb) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
