@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/1101surabhi/coding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/1101surabhi/coding/tree/master/0078-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1101surabhi/coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/1101surabhi/coding/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/1101surabhi/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1101surabhi/coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/1101surabhi/coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1101surabhi/coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/1101surabhi/coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1101surabhi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1101surabhi/coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1101surabhi/coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
