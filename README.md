@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/1101surabhi/coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1101surabhi/coding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1101surabhi/coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/1101surabhi/coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/1101surabhi/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/1101surabhi/coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/1101surabhi/coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Stack
 |  |
 | ------- |
