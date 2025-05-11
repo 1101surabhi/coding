@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/1101surabhi/coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/1101surabhi/coding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/1101surabhi/coding/tree/master/0078-subsets) |
+| [1293-three-consecutive-odds](https://github.com/1101surabhi/coding/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1101surabhi/coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/1101surabhi/coding/tree/master/1755-defuse-the-bomb) |
