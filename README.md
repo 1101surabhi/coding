@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/1101surabhi/coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/1101surabhi/coding/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/1101surabhi/coding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/1101surabhi/coding/tree/master/0078-subsets) |
 | [1293-three-consecutive-odds](https://github.com/1101surabhi/coding/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/1101surabhi/coding/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/1101surabhi/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/1101surabhi/coding/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/1101surabhi/coding/tree/master/0075-sort-colors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1101surabhi/coding/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
