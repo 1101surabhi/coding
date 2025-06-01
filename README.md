@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/1101surabhi/coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/1101surabhi/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/1101surabhi/leetcode/tree/master/1013-fibonacci-number) |
+| [3201-distribute-candies-among-children-ii](https://github.com/1101surabhi/coding/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/1101surabhi/coding/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1101surabhi/coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1101surabhi/coding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/1101surabhi/coding/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/1101surabhi/coding/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
